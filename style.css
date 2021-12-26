@@ -1,0 +1,96 @@
+body{
+    background: blue;
+}
+
+
+
+.wrapper{
+    width: 960px;
+    padding: 15px;
+    margin: auto;
+    background: #fff;
+}
+.header{
+    background: #C51417;
+ 
+    margin-bottom: 10px;
+    
+  
+}
+
+.header img{
+    width: 120px;
+    height: 80px;
+   
+}
+.header p{
+    float: right;
+}
+
+
+
+.navigation{
+    clear: both;
+    background-color: #333;
+    margin-bottom: 10px;
+    overflow: hidden;
+    
+
+}
+.navigation ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navigation li{
+    float: left;
+   
+}
+.navigation li a{
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.navigation li a:hover{
+    background: #C51417;
+}
+.main{
+    width: 700px;
+    
+    
+    float: left;
+    margin-bottom: 10px;
+}
+.main mainslika{
+padding: 15px;
+}
+.sidebar{
+    width: 240px;
+    float: right;
+    margin-bottom: 10px;
+}
+.sidebar h2{
+    background: #bbb;
+    color: #fff;
+    padding: 5px;
+}
+.foother{
+    background: #000;
+    
+    clear: both;
+}
+.foother p{
+    color: #fff;
+    text-align: center;
+}
+.forma{
+    background: rgb(147, 158, 172);
+}
+.forma-ime-prezime{
+    float: left;
+}
+.radio-buttons{
+    float: left;
+    padding: 10px 15px;
+}
